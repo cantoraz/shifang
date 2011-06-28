@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>SHI FANG Culture Communication &raquo; contact</title>
+<link rel="stylesheet" type="text/css" href="css/reset.css" />
+<link rel="stylesheet" type="text/css" href="css/grid.css" />
+<link rel="stylesheet" type="text/css" href="css/shifang.css" />
+</head>
+<body>
+<div class="container_17">
+	<!--#include virtual="header.html" -->
+	
+	<!-- main begin -->
+	<div id="main" class="clearfix">
+		<!-- begin: left box -->
+		<div id="left_box" class="grid_2 alpha">
+			<!-- begin: nav -->
+			<div id="nav">
+				<ul>
+					<li><a href="home.shtml">home</a></li>
+					<li><a href="news.shtml">news</a></li>
+					<li>
+						<a href="portfolio.shtml">portfolio</a>
+						<ul>
+							<li><a href="portfolio_graphic.shtml">graphic</a></li>
+							<li><a href="">interactive</a></li>
+							<li class="last"><a href="">environment</a></li>
+						</ul>
+					</li>
+					<li>
+						<a href="works.shtml">works</a>
+						<ul>
+							<li><a href="works_posters.shtml">posters</a></li>
+							<li><a href="">publication</a></li>
+							<li class="last"><a href="">products</a></li>
+						</ul>
+					</li>
+					<li>
+						<a href="aboutus_introduction.shtml">about us</a>
+						<ul>
+							<li><a href="aboutus_introduction.shtml">introduction</a></li>
+							<li><a href="">awards</a></li>
+							<li><a href="aboutus_studios.shtml">studios</a></li>
+							<li class="last"><a href="">imprint</a></li>
+						</ul>
+					</li>
+					<li><a href="shop.shtml">shop</a></li>
+					<li class="last selected"><a href="contact.shtml">contact</a></li>
+				</ul>
+			</div>
+			<!-- end: nav -->
+			
+			<!-- begin: lang -->
+			<div id="lang">
+				<ul>
+					<li><a href="">deutsch</a></li>
+					<li class="selected"><a href="">english</a></li>
+					<li class="last"><a href="">chinese</a></li>
+				</ul>
+			</div>
+			<!-- end: lang -->
+		</div>
+		<!-- end: left box -->
+		
+		<!-- begin: right box -->
+		<div id="right_box" class="grid_15">
+			<!-- begin: content_left -->
+			<div id="content_left" class="grid_8 alpha">
+				<div id="contact_jobs">
+					<div class="post">
+						<div class="post_content clearfix">
+							<p>Praxissemester</p>  
+							<p>SHI FANG Design offers periodically various internships for students in advanced studies phase. We guarantee fair payment and unlimited integration into current corporate design processes.</p> 
+							<p>
+								Selectable emphases:<br /> 
+								project management, text and concept, typography, layout and concept, screen, web and interface design
+							</p> 
+							<p>
+								Conditions:<br /> 
+								intermediate diploma, relevant design or processing experiences, special interest in identity development and design.
+							</p> 
+							<p>
+								Please send your written application with short CV and work results to:<br />  
+								shifangjob@126.com
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- end: content_left -->
+			
+			<!-- begin: content_right -->
+			<div id=content_right" class="grid_7 omega">
+				<div>
+					<div class="post">
+						<div class="post_content clearfix">
+							<p>jobs</p> 
+			 			</div>
+					</div>
+				</div>
+			</div>
+			<!-- end: content_right -->
+		</div>
+		<!-- end: right box -->
+	</div>
+	<!-- main end -->
+	
+	<!--#include virtual="footer.html" -->
+</div>
+</body>
+</html>

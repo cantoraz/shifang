@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>SHI FANG Culture Communication &raquo; works</title>
+<link rel="stylesheet" type="text/css" href="css/reset.css" />
+<link rel="stylesheet" type="text/css" href="css/grid.css" />
+<link rel="stylesheet" type="text/css" href="css/shifang.css" />
+</head>
+<body>
+<div class="container_17">
+	<!--#include virtual="header.html" -->
+	
+	<!-- main begin -->
+	<div id="main" class="clearfix">
+		<!-- begin: left box -->
+		<div id="left_box" class="grid_2 alpha">
+			<!-- begin: nav -->
+			<div id="nav">
+				<ul>
+					<li><a href="home.shtml">home</a></li>
+					<li><a href="news.shtml">news</a></li>
+					<li>
+						<a href="portfolio.shtml">portfolio</a>
+						<ul>
+							<li><a href="portfolio_graphic.shtml">graphic</a></li>
+							<li><a href="">interactive</a></li>
+							<li class="last"><a href="">environment</a></li>
+						</ul>
+					</li>
+					<li class="selected">
+						<a href="works.shtml">works</a>
+						<ul>
+							<li><a href="works_posters.shtml">posters</a></li>
+							<li><a href="">publication</a></li>
+							<li class="last"><a href="">products</a></li>
+						</ul>
+					</li>
+					<li>
+						<a href="aboutus_introduction.shtml">about us</a>
+						<ul>
+							<li><a href="aboutus_introduction.shtml">introduction</a></li>
+							<li><a href="">awards</a></li>
+							<li><a href="aboutus_studios.shtml">studios</a></li>
+							<li class="last"><a href="">imprint</a></li>
+						</ul>
+					</li>
+					<li><a href="shop.shtml">shop</a></li>
+					<li class="last"><a href="contact.shtml">contact</a></li>
+				</ul>
+			</div>
+			<!-- end: nav -->
+			
+			<!-- begin: lang -->
+			<div id="lang">
+				<ul>
+					<li><a href="">deutsch</a></li>
+					<li class="selected"><a href="">english</a></li>
+					<li class="last"><a href="">chinese</a></li>
+				</ul>
+			</div>
+			<!-- end: lang -->
+		</div>
+		<!-- end: left box -->
+		
+		<!-- begin: right box -->
+		<div id="right_box" class="grid_15">
+			<!-- begin: post -->
+			<div class="post">
+				<div class="post_content">
+					<div class="float_left" style="width: 220px;">
+						<div class="float_left">
+							<div class="img_box img_m"><img src="images/thumb_m.jpg" /></div>
+						</div>
+						<div class="float_left">
+							<div class="img_box img_s"><img src="images/thumb_s.jpg" /></div>
+						</div>
+						<div class="float_left">
+							<div class="img_box img_s"><img src="images/thumb_s.jpg" /></div>
+						</div>
+					</div>
+					<div class="float_left" style="width: 220px;">
+						<div class="float_left">
+							<div class="img_box img_s"><img src="images/thumb_s.jpg" /></div>
+						</div>
+						<div class="float_left">
+							<div class="img_box img_s"><img src="images/thumb_s.jpg" /></div>
+						</div>
+						<div class="float_left">
+							<div class="img_box img_m"><img src="images/thumb_m.jpg" /></div>
+						</div>
+					</div>
+					<div class="float_left" style="width: 220px;">
+						<div class="float_left">
+							<div class="img_box img_m"><img src="images/thumb_m.jpg" /></div>
+						</div>
+						<div class="float_left">
+							<div class="img_box img_s"><img src="images/thumb_s.jpg" /></div>
+						</div>
+						<div class="float_left">
+							<div class="img_box img_s"><img src="images/thumb_s.jpg" /></div>
+						</div>
+					</div>
+					<div class="float_left" style="width: 220px;">
+						<div class="float_left">
+							<div class="img_box img_s"><img src="images/thumb_s.jpg" /></div>
+						</div>
+						<div class="float_left">
+							<div class="img_box img_s"><img src="images/thumb_s.jpg" /></div>
+						</div>
+						<div class="float_left">
+							<div class="img_box img_m"><img src="images/thumb_m.jpg" /></div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- end: post -->
+		</div>
+		<!-- end: right box -->
+	</div>
+	<!-- main end -->
+	
+	<!--#include virtual="footer.html" -->
+</div>
+</body>
+</html>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>SHI FANG Culture Communication &raquo; portfolio &raquo; graphic</title>
+<link rel="stylesheet" type="text/css" href="css/reset.css" />
+<link rel="stylesheet" type="text/css" href="css/grid.css" />
+<link rel="stylesheet" type="text/css" href="css/shifang.css" />
+</head>
+<body>
+<div class="container_17">
+	<!--#include virtual="header.html" -->
+	
+	<!-- main begin -->
+	<div id="main" class="clearfix">
+		<!-- begin: left box -->
+		<div id="left_box" class="grid_2 alpha">
+			<!-- begin: nav -->
+			<div id="nav">
+				<ul>
+					<li><a href="home.shtml">home</a></li>
+					<li><a href="news.shtml">news</a></li>
+					<li class="selected">
+						<a href="portfolio.shtml">portfolio</a>
+						<ul>
+							<li class="selected"><a href="portfolio_graphic.shtml">graphic</a></li>
+							<li><a href="">interactive</a></li>
+							<li class="last"><a href="">environment</a></li>
+						</ul>
+					</li>
+					<li>
+						<a href="works.shtml">works</a>
+						<ul>
+							<li><a href="works_posters.shtml">posters</a></li>
+							<li><a href="">publication</a></li>
+							<li class="last"><a href="">products</a></li>
+						</ul>
+					</li>
+					<li>
+						<a href="aboutus_introduction.shtml">about us</a>
+						<ul>
+							<li><a href="aboutus_introduction.shtml">introduction</a></li>
+							<li><a href="">awards</a></li>
+							<li><a href="aboutus_studios.shtml">studios</a></li>
+							<li class="last"><a href="">imprint</a></li>
+						</ul>
+					</li>
+					<li><a href="shop.shtml">shop</a></li>
+					<li class="last"><a href="contact.shtml">contact</a></li>
+				</ul>
+			</div>
+			<!-- end: nav -->
+			
+			<!-- begin: lang -->
+			<div id="lang">
+				<ul>
+					<li><a href="">deutsch</a></li>
+					<li class="selected"><a href="">english</a></li>
+					<li class="last"><a href="">chinese</a></li>
+				</ul>
+			</div>
+			<!-- end: lang -->
+		</div>
+		<!-- end: left box -->
+		
+		<!-- begin: right box -->
+		<div id="right_box" class="grid_15">
+			<!-- begin: content_left -->
+			<div id="content_left" class="grid_8 alpha">
+				<!-- begin: post_portfolio -->
+				<div class="post post_portfolio">
+					<div class="post_content">
+						<p><img src="images/sample_img_portfolio_graphic.jpg" /></p>
+						<p>Bosch is a worldwide operating enterprise with almost 200,000 employees today working in 15 scope of business and more than 40 subsidiaries. The task is to combine visually the variety of competences and the standardized demand for high quality of this high-tech enterprise. Hesse supports Bosch in the process of developing its visual identity starting from the modification of the brand elements over the standardization of the communication up to the development of the POS appearance. Part of the responsibilities is besides the revision of the brand design, to support decision makers in matters of brand management.</p> 
+					</div>
+				</div>
+				<!-- end: post_portfolio -->
+			</div>
+			<!-- end: content_left -->
+			
+			<!-- begin: content_right -->
+			<div id=content_right" class="grid_7 omega">
+				<!-- begin: post_list -->
+				<div id="post_list">
+					<!-- begin: post_list_left -->
+					<div id="post_list_left" class="grid_3">
+						<ul>
+							<li><a href="">AAP</a></li>
+							<li><a href="">ADC</a></li>
+							<li><a href="">Audi</a></li>
+							<li><a href="">Bewag</a></li>
+							<li><a href="">Biennale China</a></li>
+							<li><a href="">Boehringer</a></li>
+							<li class="selected"><a href="portfolio_graphic.shtml">Bosch</a></li>
+							<li><a href="">Bundesrat</a></li>
+							<li><a href="">BVG</a></li>
+							<li><a href="">Dekra</a></li>
+							<li><a href="">Deutscher Schulpreis</a></li>
+							<li><a href="">DFA</a></li>
+							<li><a href="">Dortmund</a></li>
+							<li><a href="">Düsseldorf</a></li>
+						</ul>
+					</div>
+					<!-- end: post_list_left -->
+					
+					<!-- begin: post_list_right -->
+					<div id="post_list_right" class="grid_3">
+						<ul>
+							<li><a href="">Erkrath</a></li>
+							<li><a href="">Kieler Woche</a></li>
+							<li><a href="">Kogag</a></li>
+							<li><a href="">Mark-E</a></li>
+							<li><a href="">Messe Stuttgart</a></li>
+							<li><a href="">More &amp; More</a></li>
+							<li><a href="">Olympia 2012</a></li>
+							<li><a href="">o.tel.o</a></li>
+							<li><a href="">Queens Hotel</a></li>
+							<li><a href="">Robert Bosch Stiftung</a></li>
+							<li><a href="">Robert Schumann</a></li>
+							<li><a href="">RWE</a></li>
+							<li><a href="">Schemmrich</a></li>
+							<li><a href="">Sparkassen</a></li>
+							<li><a href="">Swarovski</a></li>
+							<li><a href="">Zapp</a></li>
+							<li><a href="">Zefa</a></li>
+							<li><a href="">Welterbe Mittelrhein</a></li>
+							<li><a href="">Various Projects 1</a></li>
+							<li><a href="">Various Projects 2</a></li>
+						</ul>
+						<!-- end: post_list_right -->
+					</div>
+				</div>
+				<!-- end: post_list -->
+			</div>
+			<!-- end: content_right -->
+		</div>
+		<!-- end: right box -->
+	</div>
+	<!-- main end -->
+	
+	<!--#include virtual="footer.html" -->
+</div>
+</body>
+</html>

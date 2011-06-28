@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>SHI FANG Culture Communication &raquo; about us  &raquo; studios</title>
+<link rel="stylesheet" type="text/css" href="css/reset.css" />
+<link rel="stylesheet" type="text/css" href="css/grid.css" />
+<link rel="stylesheet" type="text/css" href="css/shifang.css" />
+</head>
+<body>
+<div class="container_17">
+	<!--#include virtual="header.html" -->
+	
+	<!-- main begin -->
+	<div id="main" class="clearfix">
+		<!-- begin: left box -->
+		<div id="left_box" class="grid_2 alpha">
+			<!-- begin: nav -->
+			<div id="nav">
+				<ul>
+					<li><a href="home.shtml">home</a></li>
+					<li><a href="news.shtml">news</a></li>
+					<li>
+						<a href="portfolio.shtml">portfolio</a>
+						<ul>
+							<li><a href="portfolio_graphic.shtml">graphic</a></li>
+							<li><a href="">interactive</a></li>
+							<li class="last"><a href="">environment</a></li>
+						</ul>
+					</li>
+					<li>
+						<a href="works.shtml">works</a>
+						<ul>
+							<li><a href="works_posters.shtml">posters</a></li>
+							<li><a href="">publication</a></li>
+							<li class="last"><a href="">products</a></li>
+						</ul>
+					</li>
+					<li class="selected">
+						<a href="aboutus_introduction.shtml">about us</a>
+						<ul>
+							<li><a href="aboutus_introduction.shtml">introduction</a></li>
+							<li><a href="">awards</a></li>
+							<li class="selected"><a href="aboutus_studios.shtml">studios</a></li>
+							<li class="last"><a href="">imprint</a></li>
+						</ul>
+					</li>
+					<li><a href="shop.shtml">shop</a></li>
+					<li class="last"><a href="contact.shtml">contact</a></li>
+				</ul>
+			</div>
+			<!-- end: nav -->
+			
+			<!-- begin: lang -->
+			<div id="lang">
+				<ul>
+					<li><a href="">deutsch</a></li>
+					<li class="selected"><a href="">english</a></li>
+					<li class="last"><a href="">chinese</a></li>
+				</ul>
+			</div>
+			<!-- end: lang -->
+		</div>
+		<!-- end: left box -->
+		
+		<!-- begin: right box -->
+		<div id="right_box" class="grid_15">
+			<!-- begin: aboutus_studios -->
+			<div id="aboutus_studios">
+				<div class="post">
+					<div class="post_head">
+						<p>Düsseldorf</p>
+					</div>
+					<div class="post_content clearfix">
+						<div class="grid_8 alpha">
+							<div class="aboutus_img">
+								<img src="images/sample_img_aboutus_1.jpg" />
+							</div>
+							<div class="aboutus_img">
+								<img src="images/sample_img_aboutus_1.jpg" />
+							</div>
+						</div>
+						<div class="grid_7 omega">
+							<p>Hesse Design Düsseldorf</p> 
+							<p>Hesse Design is located in the nicest part of Duesseldorf's old town between the Academy of Art and the Rhine promenades. The premises of the studios extend in three historical town houses built in 1698. Across the street is the Ursulinen monastery and high school. At Ritterstraße lived no knights but citizens - alike the knights - with tax exemption. </p> 
+						</div>
+					</div>
+				</div>
+				
+				<div class="post">
+					<div class="post_head">
+		 				<p>Hangzhou</p>
+	 				</div>
+					<div class="post_content clearfix">
+						<div class="grid_8 alpha">
+							<div class="aboutus_img">
+								<img src="images/sample_img_aboutus_1.jpg" />
+							</div>
+						</div>
+						<div class="grid_7 omega">
+							<p>Hesse Design Düsseldorf</p> 
+							<p>Hesse Design is located in the nicest part of Duesseldorf's old town between the Academy of Art and the Rhine promenades. The premises of the studios extend in three historical town houses built in 1698. Across the street is the Ursulinen monastery and high school. At Ritterstraße lived no knights but citizens - alike the knights - with tax exemption. </p>
+						</div>
+		 			</div>
+				</div>
+			</div>
+			<!-- end: aboutus_studios -->
+		</div>
+		<!-- end: right box -->
+	</div>
+	<!-- main end -->
+	
+	<!--#include virtual="footer.html" -->
+</div>
+</body>
+</html>

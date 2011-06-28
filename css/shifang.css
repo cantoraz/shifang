@@ -1,0 +1,314 @@
+@CHARSET "UTF-8";
+
+body {
+/*	background: transparent url('../images/1020_grid_17_col.png') repeat scroll 0 0;*/
+}
+
+div, h1, h2, h3, h4, h5, h6 {
+/*	outline: 1px solid lightgray;*/
+}
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+	color: #4D4D4D;
+}
+
+body, a {
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	font-size: 10px;
+	font-family: Helvetica, 'Helvetica Neue', Arial, 'Liberation Sans', FreeSans, sans-serif;
+	text-decoration: none;
+}
+
+.float_left {
+	float: left;
+}
+
+.float_right {
+	float: right;
+}
+
+.img_box {
+	margin: 5px;
+	overflow: hidden;
+}
+
+.img_l, .img_l img {
+	width: 430px;
+	height: 608px;
+}
+
+.img_lm, .img_lm img {
+	width: 430px;
+	height: 448px;
+}
+
+.img_m, .img_m img {
+	width: 210px;
+	height: 297px;
+}
+
+.img_s, .img_s img {
+	width: 100px;
+	height: 141px;
+}
+.img_i, .img_i img {
+	width: 96px;
+	height: 96px;
+}
+
+#header {
+	/*left empty recommended*/
+}
+
+#logo_sfcc {
+	height: 80px;
+	margin-top: 60px;
+	background: transparent url('../images/logo_sfcc.png') no-repeat scroll 0 0;
+}
+
+#logo_sfd {
+	height: 40px;
+	margin-top: 40px;
+	margin-bottom: 30px;
+	background: transparent url('../images/logo_sfd.png') no-repeat scroll 0 0;
+}
+
+#studios li {
+	float: left;
+	margin-right: 20px;
+}
+
+#studios li.last {
+	margin-right: 0;
+}
+
+#studios li a {
+	line-height: 20px;
+	font-size: 11px;
+	color: #666666;
+}
+
+#lang_bar {
+ float: right;
+}
+
+#lang_bar li {
+	float: left;
+	margin-right: 10px;
+	font-size: 11px;
+}
+
+#lang_bar li.last {
+	margin-right: 0;
+}
+
+#lang_bar li a {
+	line-height: 20px;
+	font-size: 11px;
+	color: #666666;
+}
+
+#main {
+	/*left empty recommended*/
+}
+
+#menu {
+	margin-top: 180px;
+	margin-bottom: 180px;
+}
+
+#menu li a {
+	line-height: 29px;
+	font-weight: bold;
+	font-size: 16px;
+	color: #666666;
+}
+
+#left_box {
+	/*left empty recommended*/
+}
+
+#nav {
+	border-left: 6px solid #666666;
+}
+
+#nav li {
+	margin-bottom: 4px;
+	line-height: 16px;
+}
+
+#nav li.last {
+	margin-bottom: 0;
+}
+
+#nav li a {
+	padding: 2px 10px;
+}
+
+#nav>ul>li.selected>a {
+	background-color: #666666;
+	color: #FFFFFF;
+}
+
+#nav li ul {
+	margin: 4px 0 0 10px;
+}
+
+#nav li li {
+	margin-left: 18px;
+	list-style-position: outside;
+}
+
+#nav li li.selected {
+	list-style-type: square;
+}
+
+#nav li li a {
+	padding-left: 0;
+}
+
+#lang {
+	border-left: 6px solid #666666;
+}
+
+#lang {
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+#lang li {
+	margin-bottom: 4px;
+	line-height: 16px;
+}
+
+#lang li.last {
+	margin-bottom: 0;
+}
+
+#lang li a {
+	padding: 2px 10px;
+}
+
+#lang li.selected a {
+	background-color: #666666;
+	color: #FFFFFF;
+}
+
+#right_box {
+	/*left empty recommended*/	
+	float: right;
+}
+
+.post_head p, .post_content p {
+	line-height: 20px;
+	font-size: 11px;
+}
+
+.post_head p, .post_head a {
+	font-size: 11px;
+	font-weight: 600;
+}
+
+#post_news_list li {
+	margin-bottom: 20px;
+}
+
+.post_news .post_head a {
+	font-size: 10px;
+	color: #000000;
+}
+
+.post_news .post_content {
+	padding: 5px 0;
+}
+
+.post_news .post_content p {
+	line-height: 20px;
+	font-size: 10px;
+}
+
+#post_portfolio li {
+	float: left;
+}
+
+#aboutus_introduction .post_content p, #aboutus_studios .post_content p {
+	margin: 10px 0;
+}
+
+#aboutus_introduction .post, #aboutus_studios .post {
+	margin-bottom: 50px;
+}
+
+.aboutus_img {
+	float: left;
+	margin: 10px;
+}
+
+#contact_maps .post {
+	margin-bottom: 10px;
+}
+
+#contact_addresses {
+	margin-top: 30px;
+}
+
+#contact_addresses .post {
+	margin-bottom: 20px;
+}
+
+#btn_jobs {
+	padding: 2px 15px;
+	color: #FFFFFF; 
+	background-color: #4D4D4D;
+}
+
+#contact_jobs .post .post_content p {
+	padding: 0 0 20px 0;
+}
+
+#post_news_archive li {
+	margin-bottom: 4px;
+	margin-left: 18px;
+	line-height: 16px;
+}
+
+#post_news_archive li.last {
+	margin-bottom: 0;
+}
+
+#post_news_archive li.selected {
+	list-style: square;
+}
+
+#post_news_archive li a {
+	padding: 2px 0;
+}
+
+#post_list {
+	margin-top: 20px;
+}
+
+#post_list li {
+	margin-bottom: 4px;
+	margin-left: 18px;
+	line-height: 16px;
+}
+
+#post_list li.selected {
+	list-style: square;
+}
+
+#post_list li a {
+	font-size: 11px;
+}
+
+#footer {
+	/*left empty recommended*/
+}
+
+.copyright {
+	margin-bottom: 20px;
+	font-size: 8px;
+}

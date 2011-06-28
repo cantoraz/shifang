@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>SHI FANG Culture Communication &raquo; news</title>
+<link rel="stylesheet" type="text/css" href="css/reset.css" />
+<link rel="stylesheet" type="text/css" href="css/grid.css" />
+<link rel="stylesheet" type="text/css" href="css/shifang.css" />
+</head>
+<body>
+<div class="container_17">
+	<!--#include virtual="header.html" -->
+	
+	<!-- main begin -->
+	<div id="main" class="clearfix">
+		<!-- begin: left box -->
+		<div id="left_box" class="grid_2 alpha">
+			<!-- begin: nav -->
+			<div id="nav">
+				<ul>
+					<li><a href="home.shtml">home</a></li>
+					<li class="selected"><a href="news.shtml">news</a></li>
+					<li>
+						<a href="portfolio.shtml">portfolio</a>
+						<ul>
+							<li><a href="portfolio_graphic.shtml">graphic</a></li>
+							<li><a href="">interactive</a></li>
+							<li class="last"><a href="">environment</a></li>
+						</ul>
+					</li>
+					<li>
+						<a href="works.shtml">works</a>
+						<ul>
+							<li><a href="works_posters.shtml">posters</a></li>
+							<li><a href="">publication</a></li>
+							<li class="last"><a href="">products</a></li>
+						</ul>
+					</li>
+					<li>
+						<a href="aboutus_introduction.shtml">about us</a>
+						<ul>
+							<li><a href="aboutus_introduction.shtml">introduction</a></li>
+							<li><a href="">awards</a></li>
+							<li><a href="aboutus_studios.shtml">studios</a></li>
+							<li class="last"><a href="">imprint</a></li>
+						</ul>
+					</li>
+					<li><a href="shop.shtml">shop</a></li>
+					<li class="last"><a href="contact.shtml">contact</a></li>
+				</ul>
+			</div>
+			<!-- end: nav -->
+			
+			<!-- begin: lang -->
+			<div id="lang">
+				<ul>
+					<li><a href="">deutsch</a></li>
+					<li class="selected"><a href="">english</a></li>
+					<li class="last"><a href="">chinese</a></li>
+				</ul>
+			</div>
+			<!-- end: lang -->
+		</div>
+		<!-- end: left box -->
+		
+		<!-- begin: right box -->
+		<div id="right_box" class="grid_15">
+			<!-- begin: content_left -->
+			<div id="content_left" class="grid_8 alpha">
+				<!-- begin: post_news_list -->
+				<div id="post_news_list">
+					<ul>
+						<li class="post post_news">
+							<h3 class="post_head">
+								<p class="post_date"><a href="">2010.8.20</a></p>
+								<p class="post_title"><a href="">Hesse Design wins two iF-Awards in 2010 and bronce of the European Design Award</a></p>
+							</h3>
+							<div class="post_content">
+								<p>Handwerklich gut gemachte und herausragende Arbeiten, vor allem im Printbereich, aber auch bei den Online-Medien, perfekt umgesetzte 3-D Visualisierungen und punktgenaue Typografie – so die Einschtzung der diesjhrigen Jury des iF communication design award. Bei vielen Arbeiten lag der Schwerpunkt auf Reduktion und Klarheit der Botschaften, aber auch experimentelle Ideen konnten bei den Experten punkten. Zum diesjhrigen iF communication design award wurden insgesamt 1.687 Beitrge angemeldet. Die 30 Besten des Wettbewerbs, die iF Gold Awards, werden am 3. September im Rahmen der Preisverleihung in der BMW Welt in München bekannt gegeben. Hesse Design gewann jeweils eine Nominierung für den iF Gold Award für das Corporate Design Freie Anaesthesisten und für die Plakatserie bergnge. Aurdem wurden die Freien Anaesthesisten« mit einer Bronzemedaille des European Design Award gewürdigt. Hesse Design gewinnt außerdem eine Bronzemedaille beim European Design Festival 2010 in Rotterdam. Der European Design Award wird an die besten Arbeiten aus den Bereichen</p>
+							</div>
+						</li>
+						<li class="post post_news">
+							<h3 class="post_head">
+								<p class="post_date"><a href="">2010.8.20</a></p>
+								<p class="post_title"><a href="">Hesse Design wins two iF-Awards in 2010 and bronce of the European Design Award</a></p>
+							</h3>
+							<div class="post_content">
+								<p>Handwerklich gut gemachte und herausragende Arbeiten, vor allem im Printbereich, aber auch bei den Online-Medien, perfekt umgesetzte 3-D Visualisierungen und punktgenaue Typografie – so die Einschtzung der diesjhrigen Jury des iF communication design award. Bei vielen Arbeiten lag der Schwerpunkt auf Reduktion und Klarheit der Botschaften, aber auch experimentelle Ideen konnten bei den Experten punkten. Zum diesjhrigen iF communication design award wurden insgesamt 1.687 Beitrge angemeldet. Die 30 Besten des Wettbewerbs, die iF Gold Awards, werden am 3. September im Rahmen der Preisverleihung in der BMW Welt in München bekannt gegeben. Hesse Design gewann jeweils eine Nominierung für den iF Gold Award für das Corporate Design Freie Anaesthesisten und für die Plakatserie bergnge. Aurdem wurden die Freien Anaesthesisten« mit einer Bronzemedaille des European Design Award gewürdigt. Hesse Design gewinnt außerdem eine Bronzemedaille beim European Design Festival 2010 in Rotterdam. Der European Design Award wird an die besten Arbeiten aus den Bereichen</p>
+							</div>
+						</li>
+					</ul>
+				</div>
+				<!-- end: post_news_list -->
+			</div>
+			<!-- end: content_left -->
+			
+			<!-- begin: content_right -->
+			<div id=content_right" class="grid_7 omega">
+				<!-- begin: post_news_archive -->
+				<div id="post_news_archive">
+					<ul>
+						<li class="selected"><a href="">2010</a></li>
+						<li><a href="">2009</a></li>
+						<li><a href="">2008</a></li>
+						<li class="last"><a href="">2007</a></li>
+					</ul>
+				</div>
+				<!-- end: post_news_archive -->
+			</div>
+			<!-- end: content_right -->
+		</div>
+		<!-- end: right box -->
+	</div>
+	<!-- main end -->
+	
+	<!--#include virtual="footer.html" -->
+</div>
+</body>
+</html>
